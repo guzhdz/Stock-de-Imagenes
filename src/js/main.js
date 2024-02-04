@@ -29,7 +29,7 @@ const api = document.getElementById('api');
 const refresh = document.getElementById('refresh');
 
 home.addEventListener('click', (event) => {
-    window.location.href = "/index.html";
+    window.location.href = "https://guzhdz.github.io/Tarea-Bootstrap/";
 });
 
 api.addEventListener('click', (event) => {
@@ -37,7 +37,7 @@ api.addEventListener('click', (event) => {
 });
 
 refresh.addEventListener('click', (event) => {
-    window.location.href = "/index.html";
+    window.location.href = "https://guzhdz.github.io/Tarea-Bootstrap/";
 });
 
 

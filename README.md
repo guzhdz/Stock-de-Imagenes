@@ -9,4 +9,6 @@ Link de github y de la página web
 
 
 ## Resultados
-Link: 
+Link: https://guzhdz.github.io/Tarea-Bootstrap/
+
+![image](https://github.com/guzhdz/Tarea-Bootstrap/assets/89165084/3bebf29a-3c49-4754-8036-26d786c9d807)

@@ -1,4 +1,5 @@
-# Tarea Bootstrap
+# Stock de imagenes
+Este proyecto consta 
 
 ## Objetivo
 Generar una página web utilizando el framework de Bootstrap o alguno similar.

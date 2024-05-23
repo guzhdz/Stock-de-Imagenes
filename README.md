@@ -1,13 +1,6 @@
 # Stock de imagenes
-Este proyecto consta 
-
-## Objetivo
-Generar una página web utilizando el framework de Bootstrap o alguno similar.
-
-
-Entregable 
-Link de github y de la página web
-
+Este proyecto consta de un sotck de imagenes que mediante una API consulta un lote de imagens de stock para presentarselas al usuario.
+Si se scrollea y se acabn las imagenes consultas mas. Esta hecho con Javascript, CSS, HTML y Bootstrap.
 
 ## Resultados
 Link: https://guzhdz.github.io/Tarea-Bootstrap/
